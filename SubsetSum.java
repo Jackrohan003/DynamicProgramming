@@ -1,7 +1,7 @@
 //https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
 import java.lang.*;
 import java.io.*;
-class GFG {
+class SubsetSum {
     static boolean equalsum(int a[],int n,int sum,int i)
     {
         if(0==sum)
